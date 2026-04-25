@@ -1,0 +1,82 @@
+[
+  {
+    "query": "We have these backlog items for next sprint: migrate to OAuth2, add dark mode, integrate payment API, fix dashboard performance. What should we work on first?",
+    "should_trigger": true
+  },
+  {
+    "query": "My team is stuck deciding which stories to pull into the iteration. Everything feels risky and unclear.",
+    "should_trigger": true
+  },
+  {
+    "query": "Can you help me figure out the order to tackle these initiatives? Some depend on other teams and I'm not sure what's blocking what.",
+    "should_trigger": true
+  },
+  {
+    "query": "This epic feels too vague to estimate. How do we handle work when we don't really understand it yet?",
+    "should_trigger": true
+  },
+  {
+    "query": "I've got a CSV export from Jira with 50 user stories. Can you analyze which ones are ready to commit to and which need more discovery?",
+    "should_trigger": true
+  },
+  {
+    "query": "We keep overcommitting in sprint planning because we underestimate uncertainty. Is there a framework for this?",
+    "should_trigger": true
+  },
+  {
+    "query": "Should we estimate this feature now or wait? It's large but we've done similar work before.",
+    "should_trigger": true
+  },
+  {
+    "query": "What's the best way to sequence work when multiple teams have dependencies on each other?",
+    "should_trigger": true
+  },
+  {
+    "query": "Our product owner keeps adding vague stories to the sprint. How do we decide what's actually ready to commit?",
+    "should_trigger": true
+  },
+  {
+    "query": "We have technical debt work mixed with feature work. What's the right way to sequence these when some dependencies are unclear?",
+    "should_trigger": true
+  },
+  {
+    "query": "Write a Python function to calculate fibonacci numbers",
+    "should_trigger": false
+  },
+  {
+    "query": "Convert this JSON file to YAML format",
+    "should_trigger": false
+  },
+  {
+    "query": "What's the weather forecast for tomorrow in Seattle?",
+    "should_trigger": false
+  },
+  {
+    "query": "Review this Java code for security vulnerabilities and Spring Boot best practices",
+    "should_trigger": false
+  },
+  {
+    "query": "Create a marketing plan for our new product launch",
+    "should_trigger": false
+  },
+  {
+    "query": "How do I set up a React component with hooks?",
+    "should_trigger": false
+  },
+  {
+    "query": "Summarize this PDF document about quarterly earnings",
+    "should_trigger": false
+  },
+  {
+    "query": "Generate a SQL query to find duplicate customer records",
+    "should_trigger": false
+  },
+  {
+    "query": "What are the best practices for writing Dockerfiles?",
+    "should_trigger": false
+  },
+  {
+    "query": "Help me write a performance review for my direct report",
+    "should_trigger": false
+  }
+]

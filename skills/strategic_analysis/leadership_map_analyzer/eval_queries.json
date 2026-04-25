@@ -1,0 +1,82 @@
+[
+  {
+    "query": "Our leadership team isn't working well together. Can you help me assess what's going wrong and what we should do about it?",
+    "should_trigger": true
+  },
+  {
+    "query": "I need to develop a leadership development plan for our newly promoted executives. What should we focus on?",
+    "should_trigger": true
+  },
+  {
+    "query": "How can we assess whether our CEO is ready for the next level of growth? She's great operationally but something feels off.",
+    "should_trigger": true
+  },
+  {
+    "query": "Our company culture has deteriorated since we scaled. Is this a leadership problem and how do we fix it?",
+    "should_trigger": true
+  },
+  {
+    "query": "We're doing succession planning for our VP roles. What framework can help us evaluate internal candidates holistically?",
+    "should_trigger": true
+  },
+  {
+    "query": "The executive team keeps making decisions that conflict with our stated values. How do we address this misalignment?",
+    "should_trigger": true
+  },
+  {
+    "query": "I'm coaching a leader who's technically brilliant but struggles with people. What development approach would work best?",
+    "should_trigger": true
+  },
+  {
+    "query": "What's missing from our leadership approach? We have great systems but low engagement.",
+    "should_trigger": true
+  },
+  {
+    "query": "Our founder-CEO is struggling to transition from hands-on builder to strategic leader. What development approach would help?",
+    "should_trigger": true
+  },
+  {
+    "query": "The leadership team has great individual contributors but doesn't function well as a collective. How do we diagnose and fix this?",
+    "should_trigger": true
+  },
+  {
+    "query": "Write a leadership competency model for engineering managers",
+    "should_trigger": false
+  },
+  {
+    "query": "Create a 360-degree feedback survey template for managers",
+    "should_trigger": false
+  },
+  {
+    "query": "What are the top 10 books every leader should read?",
+    "should_trigger": false
+  },
+  {
+    "query": "How do I run an effective one-on-one meeting with my direct reports?",
+    "should_trigger": false
+  },
+  {
+    "query": "Generate a list of interview questions to assess leadership potential",
+    "should_trigger": false
+  },
+  {
+    "query": "What's the difference between transformational and transactional leadership?",
+    "should_trigger": false
+  },
+  {
+    "query": "Help me write a performance improvement plan for an underperforming manager",
+    "should_trigger": false
+  },
+  {
+    "query": "What are best practices for giving difficult feedback to a peer?",
+    "should_trigger": false
+  },
+  {
+    "query": "Create an onboarding checklist for new team leads",
+    "should_trigger": false
+  },
+  {
+    "query": "How should we structure our management training program?",
+    "should_trigger": false
+  }
+]

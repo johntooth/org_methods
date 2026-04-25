@@ -1,0 +1,82 @@
+[
+  {
+    "query": "We need better visibility into our program progress. Leadership keeps asking for status but our current dashboards aren't helping.",
+    "should_trigger": true
+  },
+  {
+    "query": "How should we set up a team dashboard that actually drives decisions rather than just showing pretty charts?",
+    "should_trigger": true
+  },
+  {
+    "query": "Our remote team lacks shared context. What's the best way to create visual management that works asynchronously?",
+    "should_trigger": true
+  },
+  {
+    "query": "I need to design an agile board for our scrum team. What should we track and how should it be organized?",
+    "should_trigger": true
+  },
+  {
+    "query": "Can you help me create a leadership dashboard that shows portfolio health without overwhelming detail?",
+    "should_trigger": true
+  },
+  {
+    "query": "What metrics should we put on our team wall board? We have limited space and want to focus on what matters.",
+    "should_trigger": true
+  },
+  {
+    "query": "Our standups are inefficient because no one knows what's blocked. How can visual management help?",
+    "should_trigger": true
+  },
+  {
+    "query": "Design a visual management system for our operations team that handles both planned work and incidents.",
+    "should_trigger": true
+  },
+  {
+    "query": "We're scaling from 2 teams to 8 teams and losing visibility. What visual management system scales without creating dashboard fatigue?",
+    "should_trigger": true
+  },
+  {
+    "query": "Our hybrid team has half the people remote and half in-office. How do we design visual management that works equitably for both?",
+    "should_trigger": true
+  },
+  {
+    "query": "Create a Jira dashboard configuration for tracking sprint velocity and burndown",
+    "should_trigger": false
+  },
+  {
+    "query": "What are the best tools for building executive dashboards?",
+    "should_trigger": false
+  },
+  {
+    "query": "How do I set up automated reporting in PowerBI?",
+    "should_trigger": false
+  },
+  {
+    "query": "Write SQL queries to calculate cycle time and lead time from our database",
+    "should_trigger": false
+  },
+  {
+    "query": "What's the difference between OKRs and KPIs?",
+    "should_trigger": false
+  },
+  {
+    "query": "Generate a template for weekly status reports to stakeholders",
+    "should_trigger": false
+  },
+  {
+    "query": "How often should we update our project timeline?",
+    "should_trigger": false
+  },
+  {
+    "query": "Create a RACI matrix template for our new initiative",
+    "should_trigger": false
+  },
+  {
+    "query": "What are best practices for running effective retrospectives?",
+    "should_trigger": false
+  },
+  {
+    "query": "Help me write a project charter for our Q2 initiative",
+    "should_trigger": false
+  }
+]

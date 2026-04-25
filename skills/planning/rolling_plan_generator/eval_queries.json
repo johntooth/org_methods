@@ -1,0 +1,82 @@
+[
+  {
+    "query": "We need to plan our work for the next year but things change too fast for a fixed annual plan. What's a better approach?",
+    "should_trigger": true
+  },
+  {
+    "query": "Can you help me create a roadmap that shows what we're committing to vs. what's still uncertain?",
+    "should_trigger": true
+  },
+  {
+    "query": "How should we structure our quarterly planning? We have too many initiatives and limited capacity.",
+    "should_trigger": true
+  },
+  {
+    "query": "I need to communicate our plan to stakeholders in a way that manages expectations about timing and certainty.",
+    "should_trigger": true
+  },
+  {
+    "query": "What's the best way to organize our backlog across different time horizons? Some work is ready, some needs discovery.",
+    "should_trigger": true
+  },
+  {
+    "query": "We keep overcommitting each quarter. How can we plan more realistically while staying adaptive?",
+    "should_trigger": true
+  },
+  {
+    "query": "Help me create a portfolio view showing what teams are working on now, what's next, and what's exploratory.",
+    "should_trigger": true
+  },
+  {
+    "query": "What framework can help us sequence work based on dependencies rather than just priority?",
+    "should_trigger": true
+  },
+  {
+    "query": "We need to show investors our commitment to key initiatives while maintaining flexibility to adapt. What planning approach works here?",
+    "should_trigger": true
+  },
+  {
+    "query": "How can we create a rolling plan that clearly distinguishes between firm commitments and exploratory work for different stakeholder groups?",
+    "should_trigger": true
+  },
+  {
+    "query": "Create a Gantt chart template for tracking project milestones",
+    "should_trigger": false
+  },
+  {
+    "query": "What are the best project management tools for software teams?",
+    "should_trigger": false
+  },
+  {
+    "query": "How do I write good user stories with acceptance criteria?",
+    "should_trigger": false
+  },
+  {
+    "query": "Generate a sprint planning agenda for a two-week iteration",
+    "should_trigger": false
+  },
+  {
+    "query": "What's the difference between agile and waterfall methodologies?",
+    "should_trigger": false
+  },
+  {
+    "query": "Create a capacity planning spreadsheet for our team",
+    "should_trigger": false
+  },
+  {
+    "query": "How often should we do backlog refinement?",
+    "should_trigger": false
+  },
+  {
+    "query": "Write a project status update email for stakeholders",
+    "should_trigger": false
+  },
+  {
+    "query": "What metrics should we track for agile team performance?",
+    "should_trigger": false
+  },
+  {
+    "query": "Help me facilitate a retrospective for our last sprint",
+    "should_trigger": false
+  }
+]
