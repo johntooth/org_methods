@@ -1,0 +1,82 @@
+[
+  {
+    "query": "We're about to kick off a major platform migration. Can you help me think through what could go wrong?",
+    "should_trigger": true
+  },
+  {
+    "query": "I'm worried about this product launch plan but can't articulate why. What risks am I missing?",
+    "should_trigger": true
+  },
+  {
+    "query": "Our team is committing to an aggressive 3-month timeline for a new feature. What should we be concerned about?",
+    "should_trigger": true
+  },
+  {
+    "query": "Before we invest $500k in this initiative, I want to understand the failure modes. Can you analyze the risks?",
+    "should_trigger": true
+  },
+  {
+    "query": "What could cause this reorganization to fail? We're merging two teams and I want to anticipate problems.",
+    "should_trigger": true
+  },
+  {
+    "query": "Help me do a risk analysis on this technical architecture proposal before we present it to the board.",
+    "should_trigger": true
+  },
+  {
+    "query": "I need to identify what might prevent this strategic bet from succeeding. Can you walk through potential failure scenarios?",
+    "should_trigger": true
+  },
+  {
+    "query": "We've been burned before by overconfident planning. Is there a structured way to surface risks early?",
+    "should_trigger": true
+  },
+  {
+    "query": "Before we announce this partnership publicly, I want to think through all the ways it could backfire or fail to deliver value.",
+    "should_trigger": true
+  },
+  {
+    "query": "Our startup is about to scale from 10 to 50 people. What could derail our culture and execution during this growth phase?",
+    "should_trigger": true
+  },
+  {
+    "query": "Write a Python script to parse log files and extract error rates",
+    "should_trigger": false
+  },
+  {
+    "query": "Convert this SQL query to use CTEs instead of subqueries",
+    "should_trigger": false
+  },
+  {
+    "query": "What's the best way to structure a React component library?",
+    "should_trigger": false
+  },
+  {
+    "query": "Review this marketing copy for our landing page",
+    "should_trigger": false
+  },
+  {
+    "query": "How do I configure Kubernetes horizontal pod autoscaling?",
+    "should_trigger": false
+  },
+  {
+    "query": "Generate a list of interview questions for a senior engineer role",
+    "should_trigger": false
+  },
+  {
+    "query": "Summarize the key points from this earnings call transcript",
+    "should_trigger": false
+  },
+  {
+    "query": "Create a Docker Compose file for a Postgres + Redis stack",
+    "should_trigger": false
+  },
+  {
+    "query": "What are the tax implications of incorporating in Delaware vs Wyoming?",
+    "should_trigger": false
+  },
+  {
+    "query": "Help me write a job description for a product manager position",
+    "should_trigger": false
+  }
+]

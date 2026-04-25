@@ -1,0 +1,82 @@
+[
+  {
+    "query": "Our team is constantly firefighting and we don't know where all our time goes. Can you help us understand our capacity?",
+    "should_trigger": true
+  },
+  {
+    "query": "We're planning next quarter but I'm not sure how much capacity we actually have after accounting for ongoing operational work.",
+    "should_trigger": true
+  },
+  {
+    "query": "The team feels burned out but we can't pinpoint why. We need to analyze what's consuming our time.",
+    "should_trigger": true
+  },
+  {
+    "query": "How should we balance project work vs. operational responsibilities? It feels like ops is taking over everything.",
+    "should_trigger": true
+  },
+  {
+    "query": "I need to make a case for hiring more people. How can I show that our current capacity is overloaded?",
+    "should_trigger": true
+  },
+  {
+    "query": "What recurring activities should we be tracking to understand our team's workload better?",
+    "should_trigger": true
+  },
+  {
+    "query": "We keep overcommitting because we forget about all the small recurring tasks. Is there a framework for this?",
+    "should_trigger": true
+  },
+  {
+    "query": "Can you help me identify which operational tasks could be automated or eliminated to free up capacity?",
+    "should_trigger": true
+  },
+  {
+    "query": "Every quarter we promise to tackle tech debt but never have capacity. How do we make visible how much ops work is consuming?",
+    "should_trigger": true
+  },
+  {
+    "query": "Our team lead quit and I'm inheriting the team. They seem overwhelmed but I can't see where all their time is going. Help me analyze.",
+    "should_trigger": true
+  },
+  {
+    "query": "Create a time tracking template for developers to log their daily activities",
+    "should_trigger": false
+  },
+  {
+    "query": "What are best practices for running effective standup meetings?",
+    "should_trigger": false
+  },
+  {
+    "query": "How do I calculate team velocity in agile?",
+    "should_trigger": false
+  },
+  {
+    "query": "Generate a list of team building activities for remote teams",
+    "should_trigger": false
+  },
+  {
+    "query": "What's the ideal ratio of engineers to product managers?",
+    "should_trigger": false
+  },
+  {
+    "query": "Write a job description for a DevOps engineer position",
+    "should_trigger": false
+  },
+  {
+    "query": "How often should we do performance reviews?",
+    "should_trigger": false
+  },
+  {
+    "query": "Create an agenda for our weekly team meeting",
+    "should_trigger": false
+  },
+  {
+    "query": "What are good OKRs for an engineering team?",
+    "should_trigger": false
+  },
+  {
+    "query": "Help me write a proposal for adopting a new development tool",
+    "should_trigger": false
+  }
+]

@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+*.log
+test_output/
+.coverage
+htmlcov/
+
+# Lock files (keep PEP 723 inline deps, exclude external locks)
+uv.lock
+package-lock.json
+yarn.lock

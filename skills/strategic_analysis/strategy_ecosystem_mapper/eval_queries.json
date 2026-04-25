@@ -1,0 +1,82 @@
+[
+  {
+    "query": "Can you help me map out our competitive landscape? We're a project management tool for creative agencies competing with Asana and Monday.com.",
+    "should_trigger": true
+  },
+  {
+    "query": "Where do we fit in the market? I need to explain our strategic position to the board using language everyone can understand.",
+    "should_trigger": true
+  },
+  {
+    "query": "Who are our real competitors? And what types of companies are they - incumbents, challengers, niche players?",
+    "should_trigger": true
+  },
+  {
+    "query": "We're planning our annual strategy offsite. I want a framework that helps the whole team participate in strategic thinking.",
+    "should_trigger": true
+  },
+  {
+    "query": "What's the competitive dynamics in the AI-powered customer service space? Who are the giants vs. the emerging players?",
+    "should_trigger": true
+  },
+  {
+    "query": "Help me think about our market entry strategy. We're considering expanding from SMB to enterprise customers.",
+    "should_trigger": true
+  },
+  {
+    "query": "I need to visualize our ecosystem including customers, partners, investors, and competitors. Is there a good metaphor for this?",
+    "should_trigger": true
+  },
+  {
+    "query": "What strategic opportunities exist in the fintech payments landscape? Where should a mid-sized player focus?",
+    "should_trigger": true
+  },
+  {
+    "query": "We're a small player in the cloud infrastructure space dominated by AWS, Azure, and GCP. How should we position ourselves strategically?",
+    "should_trigger": true
+  },
+  {
+    "query": "Help me explain our competitive landscape to new board members using a framework that makes the dynamics intuitive.",
+    "should_trigger": true
+  },
+  {
+    "query": "Write a competitive analysis report comparing features of top 5 CRM platforms",
+    "should_trigger": false
+  },
+  {
+    "query": "Create a SWOT analysis template for our quarterly business review",
+    "should_trigger": false
+  },
+  {
+    "query": "What's the total addressable market for HR software in Europe?",
+    "should_trigger": false
+  },
+  {
+    "query": "Generate a list of questions to ask customers during discovery calls",
+    "should_trigger": false
+  },
+  {
+    "query": "How do I build a pricing page that converts better?",
+    "should_trigger": false
+  },
+  {
+    "query": "Draft an investor update email highlighting our Q4 achievements",
+    "should_trigger": false
+  },
+  {
+    "query": "What are the key metrics a SaaS company should track?",
+    "should_trigger": false
+  },
+  {
+    "query": "Help me write a job posting for a VP of Sales role",
+    "should_trigger": false
+  },
+  {
+    "query": "Create a product roadmap timeline for the next 12 months",
+    "should_trigger": false
+  },
+  {
+    "query": "What's the best way to structure a sales compensation plan?",
+    "should_trigger": false
+  }
+]
